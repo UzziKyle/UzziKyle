@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UzziKyle
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML/CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Skype: live:.cid.59347bf2c8398679
 
 <!---
